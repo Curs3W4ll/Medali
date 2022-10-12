@@ -1,0 +1,3 @@
+# Medali
+
+[Notes](notes.md)
