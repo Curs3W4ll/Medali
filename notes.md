@@ -30,7 +30,8 @@ Pour les stats de prévision, potentiellement ajouter une possibilité de faire 
 - Les 6 prochains jours
 
 Les prochains départs de patients programmés.  
-Savoir quels lits se libèrent et quand pour rapidement savoir si on a des lits bientôt.
+Savoir quels lits se libèrent et quand pour rapidement savoir si on a des lits bientôt.  
+Peut-être ajouter un planning (calendrier) de libération de lits etc...
 
 ##### Identification des lits
 
