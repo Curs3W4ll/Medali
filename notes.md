@@ -15,12 +15,12 @@ Plusieurs roles:
 
 ##### Ajouter aux statistiques
 
-Garder l'affichage d'occupation haute, mais aussi ajouter les services a occupation basse (car occupation basse veut dire perte d'argent).  
+Garder l'affichage d'occupation haute, mais aussi ajouter les services a occupation basse (car occupation basse veut dire perte d'argent).
 Potentiellement aussi ajouter les occupations hautes mais que en lits programmés car c'est pas bon, y'a plus assez de lits pour urgences.
 
 Les services ou il y a le plus de lits disponibles.
 
-Ajouter des statistiques globales à l'hôpital, en [plan blanc](http://cpn.rmi.fr/Qu-est-ce-que-le-plan-blanc-d-un.html) pour savoir combien de lits sont disponibles dans tous l'hôpital par exemple.  
+Ajouter des statistiques globales à l'hôpital, en [plan blanc](http://cpn.rmi.fr/Qu-est-ce-que-le-plan-blanc-d-un.html) pour savoir combien de lits sont disponibles dans tous l'hôpital par exemple.
 Ajouter un bouton `Plan Blanc` pour passer dans un autre "mode", pour avoir une interface différente.
 
 Pour les stats de prévision, potentiellement ajouter une possibilité de faire une sélection sur une plage de durée. Par exemple:
@@ -29,14 +29,14 @@ Pour les stats de prévision, potentiellement ajouter une possibilité de faire 
 - Les 3 prochains jours
 - Les 6 prochains jours
 
-Les prochains départs de patients programmés.  
-Savoir quels lits se libèrent et quand pour rapidement savoir si on a des lits bientôt.  
+Les prochains départs de patients programmés.
+Savoir quels lits se libèrent et quand pour rapidement savoir si on a des lits bientôt.
 Peut-être ajouter un planning (calendrier) de libération de lits etc...
 
 ##### Identification des lits
 
-Ne pas déshumanisé les patients, il ne faut pas parler en numéro de chambre, ca peut causer beaucoup de problèmes et de la confusion.  
-Qui plus est, c'est impossible pour le personnel soignant de travailler uniquement avec des chiffres.  
+Ne pas déshumanisé les patients, il ne faut pas parler en numéro de chambre, ca peut causer beaucoup de problèmes et de la confusion.
+Qui plus est, c'est impossible pour le personnel soignant de travailler uniquement avec des chiffres.
 Donc ajouter les noms des patients sur les cartes des lits.
 
 Ajouter une barre de recherche pour les patients, recherchez par nom et par numéro de lit.
@@ -50,3 +50,50 @@ Mais en fait les données sont internes aux hôpitaux et le logiciel est loger d
 ##### Widget
 
 Ajouter un Widget Windows qui permet d'avoir une visualisation rapide des lits sur l'hôpital pour tout le monde.
+
+## Model canvas avec Mathilde
+
+### Bénéficiaires
+
+- Les hôpitaux publics et privés (+ARS)
+- Ministère de la santé (Soeur de Denis)
+- Centres de régulation de flux patents urgence (SAMU, SOS-Médecin)
+
+- Infrimiers, médecins et chirurgiens (Arnaud, tante à Nathan)
+- Personnel administratif
+- Opérateur des centres de régulation
+
+### Valeur
+
+Moins de clique possible
+
+### ???
+
+### Impacts
+
+Moins de clicks possible, rapidité.
+
+Visuel rapide de la charge du service.
+
+### Adhésion
+
+### Activités clefs
+
+### Formations
+
+Vidéos + FAQ.
+
+Bienvenue pour la première fois <?>.
+
+### Partenaires
+
+Système d'authentification ? (login)
+
+### ???
+
+
+### Autre
+
+Focus pas dispo/dispo.
+
+Soit communication avec centres de régulation, soit pris en charge du dossier patient.
