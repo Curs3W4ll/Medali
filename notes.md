@@ -97,3 +97,28 @@ Système d'authentification ? (login)
 Focus pas dispo/dispo.
 
 Soit communication avec centres de régulation, soit pris en charge du dossier patient.
+
+## Model canva delivery v1 avec Mathilde
+
+Pitch à la place du titre.  
+Optimisation des flux dans les hopitaux.
+
+Mettre le 7 quand même si on l'a.  
+Y'en a un c'est le 4, on c'est trompé.
+
+Channels -> Déploiement.
+
+Développé sur la stratégie de développement technique.
+
+Parlez des tutos vidéos, comment on fait la formation.
+
+Ajoutez des stats au **Revenues streams**.  
+Parlez aussi du peu de clicks nécessaire.
+Parlez du gain d'argent.
+Comparé le temps actuel que prends un lit inoccupé entre le moment où il est libéré et le moment où il est réoccupé (temps d'innocupation).
+
+Ajoutez le service informatique de l'hôpital en tant que partenaire, un système d'authentification aussi ([cf](#partenaires)).
+
+Ajoutez les coûts globals ([cf](https://epitechfr-my.sharepoint.com/:x:/r/personal/benjamin_maurel-mouginet_epitech_eu/_layouts/15/Doc.aspx?sourcedoc=%7BFA46710F-358D-4C21-9960-A7F64C15BE04%7D&file=compta%20medali.xlsx&wdOrigin=OFFICECOM-WEB.START.REC&ct=1669647735605&action=default&mobileredirect=true)), coût de maintenance, coût d'installation, coût de production(jusqu'à la livraison de la v1).
+
+**:warning: CHANGER LES TITRES DES CASES**.
